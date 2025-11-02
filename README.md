@@ -1,2 +1,2 @@
 # vocal
-pythonで母音再現
+pythonで母音再現しました
